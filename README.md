@@ -1,5 +1,7 @@
 # Laboratório de Inteligência Artificial - CPS
 Material referente ao Curso de Visão Computacional - Laboratório de IA - CPS
+![image](https://user-images.githubusercontent.com/101676959/158487852-725aed45-6216-4053-93a9-22c0448d0fda.png)
+
 
 Projeto "O cubo" do Centro Paula Souza
 Link do site:
